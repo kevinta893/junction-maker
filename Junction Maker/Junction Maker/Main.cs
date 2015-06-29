@@ -14,10 +14,16 @@ namespace Junction_Maker
 {
     public partial class Main : Form
     {
+
+        public const string PROGRAM_NAME = "Directory Junction Maker";
+        public const string VERSION_NUM = "v1.0";
+
+
         public Main()
         {
             InitializeComponent();
 
+            this.Text = PROGRAM_NAME + " " + "v1.0";
 
         }
 

@@ -114,7 +114,7 @@
             this.Controls.Add(this.txtTargetDirectory);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
-            this.Text = "Directory Junction Maker";
+            this.Text = "Directory Junction Maker v1.0";
             this.ResumeLayout(false);
             this.PerformLayout();
 
